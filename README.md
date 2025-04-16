@@ -116,7 +116,8 @@ I'm a Software Engineer at MabuhayTech Ciroiration currently working on differen
 
 </div>
 
-![Snake animation](https://github.com/JhnChrstnMabuhayTech/blob/output/github-contribution-grid-snake.svg)
+### 🐍 Watch my contributions snake its way through my GitHub!
+![Snake animation](https://github.com/JhnChrstnMabuhayTech/JhnChrstnMabuhayTech/blob/output/github-contribution-grid-snake.svg)
 
 <table>
   <tr>
