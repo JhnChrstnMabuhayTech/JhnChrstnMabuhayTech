@@ -1,7 +1,7 @@
 # 💫 About Me:
 
 ### Hello! My name is Jhon Christian Rempajo.
-I'm a Software Engineer at MabuhayTech Ciroiration currently working on different projects. I specialize in building custom WordPress and Next.js projects and love taking on new challenges to push my skills further.
+I'm a Software Engineer at MabuhayTech Corporation currently working on different projects. I specialize in building custom WordPress and Next.js projects and love taking on new challenges to push my skills further.
 
 
 ## Tech Stack
