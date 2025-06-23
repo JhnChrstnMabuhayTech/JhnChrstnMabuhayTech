@@ -8,7 +8,7 @@ on:
     workflow_dispatch:
     push:
         branches:
-            - main
+            - master
     schedule:
         - cron: "0 0 * * *"
 
@@ -48,7 +48,7 @@ jobs:
               uses: ad-m/github-push-action@master
               with:
                   github_token: ${{ secrets.GITHUB_TOKEN }}
-                  branch: main
+                  branch: master
                   force: true
 
             - name: Deploy to GitHub Pages
